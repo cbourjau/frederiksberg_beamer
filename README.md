@@ -1,6 +1,6 @@
 # Frederiksberg beamer theme #
 
-Morten Larsen created a nice beamer theme for the University of Copenhagen a few years ago. Unfortunately, link-rot seems to have crept in and the [original site](http://matdat.life.ku.dk/LaTeX/Frederiksberg) is unavailable since a view weeks. Hence, I just set up this repository to preserve his work for all future to come. All credit goes to Morten.
+Morten Larsen created a nice beamer theme for the University of Copenhagen a few years ago. Unfortunately, link-rot seems to have crept in and the [original site](http://matdat.life.ku.dk/LaTeX/Frederiksberg) is unavailable since several years. Hence, I just set up this repository to preserve his work for all future to come. All credit goes to Morten.
 
 ## Installation ##
 The following instructions are copied from this [pdf](http://www.latexstudio.net/wp-content/uploads/2015/06/FrederiksbergUserGuide-2-2.pdf) file, which is also included in this repository. The "archived folder" in the following is the folder Frederiksberg in this repository.
